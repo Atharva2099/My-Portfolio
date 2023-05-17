@@ -2,6 +2,7 @@
 Repo for all the projects I have worked on , am working on, or I have learnt new things from
 My Projects
 >Langchain Model using HuggingFace API
+>
 >Stock Market Predicting RNN model that webscrapes using YaHoo Finance
 >
 
