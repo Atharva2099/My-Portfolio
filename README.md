@@ -21,7 +21,6 @@ Features
 >German Translating application using Huggingface pipelines with web interfacing using Gradio 
 
 
-Source Code
-The source code for this project is available on GitHub. You can contribute to the project by submitting pull requests.
+
 
 
