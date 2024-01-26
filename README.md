@@ -17,6 +17,8 @@ My Projects:
 
 
 Features:
+
+
 A LLM Chatbot that Scrapes your favourite Wikipedia Page using BeautifulSoup, then uses Ollama distribution of Mistral7B to prompt the LLM to answer your question. Uses Langchain for chaining LLM, Streamlit for web Interface and BeautifulSoup for Scraping.
 
 ><img width="675" alt="image" src="https://github.com/Atharva2099/My-Portfolio/assets/93972767/6990a5b6-db53-44ee-8c09-ee3ad2affd34">
