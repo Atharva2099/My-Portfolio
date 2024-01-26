@@ -28,7 +28,7 @@ Using Streamlit and YFinance Library. I have Created a WebApp that can take live
 
 ><img width="580" alt="image" src="https://github.com/Atharva2099/My-Portfolio/assets/93972767/e11c80bd-17c5-4b19-b5db-dacdb42cbbce">
 
-Stock Market Predicting RNN model that webscrapes using YaHoo Finance
+Stock Market Predicting RNN/LSTM model that takes live data using YaHoo Finance Library.
 >
 German Translating application using Huggingface pipelines with web interfacing using Gradio 
 
